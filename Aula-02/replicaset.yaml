@@ -14,6 +14,6 @@ spec:
     spec: 
       containers:
         - name: web
-          image: kubedevio/web-page:blue
+          image: kubedevio/web-page:green
           ports: 
             - containerPort: 80
